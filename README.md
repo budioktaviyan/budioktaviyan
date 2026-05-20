@@ -17,3 +17,6 @@
 
 ## 📈 Contribution Graph
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=budioktaviyan&theme=github-dark-dimmed)
+
+## 🤩 Star History
+[![Star History Chart](https://api.star-history.com/chart?repos=budioktaviyan/android-genai-workshop%2Cbudioktaviyan/flutter-messaging%2Cbudioktaviyan/movies-multiplatform%2Cbudioktaviyan/situng-captor%2Cbudioktaviyan/agentic-go&type=timeline&logscale&legend=bottom-right)](https://www.star-history.com/?repos=budioktaviyan%2Fandroid-genai-workshop%2Cbudioktaviyan%2Fflutter-messaging%2Cbudioktaviyan%2Fmovies-multiplatform%2Cbudioktaviyan%2Fsitung-captor%2Cbudioktaviyan%2Fagentic-go&type=timeline&logscale=&legend=bottom-right)
